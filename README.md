@@ -8,7 +8,7 @@
     
 ---
 
-<img src="./Figures/myprofile.jpg" alt="myprofile" style="zoom: 67%;"/>
+<img src="./Figures/myprofile.jpg" alt="myprofile" style="zoom: 20%;"/>
 
 ## Education & Career
 
