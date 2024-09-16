@@ -8,7 +8,7 @@
     
 ---
 
-<img src="./Figures/myprofile.jpg" alt="myprofile" style="zoom: 67%;"/>
+<img src="https://github.com/ysn-hu/ysn-hu.github.io/blob/main/Figures/myprofile.jpg" alt="myprofile" style="zoom: 67%;"/>
 
 ## Education & Career
 
