@@ -2,13 +2,14 @@
 
 ---
 **Yasen Hu**
+
+<img src="./Figures/myprofile.jpg" alt="myprofile" style="zoom: 20%;"/>
+
   - Position: Postdoctor Research Fellow
   - Email: ysenhu@ustc.edu.cn
   - Address: University of Science and Technology of China, Hefei 230027, China
     
 ---
-
-<img src="./Figures/myprofile.jpg" alt="myprofile" style="zoom: 20%;"/>
 
 ## Education & Career
 
