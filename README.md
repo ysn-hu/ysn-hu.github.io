@@ -8,6 +8,8 @@
     
 ---
 
+<img src="./Figures/myprofile.jpg" alt="myprofile" style="zoom: 67%;"/>
+
 ## Education & Career
 
 - **University of Science and Technology of China**
